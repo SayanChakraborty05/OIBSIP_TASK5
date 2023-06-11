@@ -1,4 +1,3 @@
 # OIBSIP_TASK5
 ## SALES PREDICTION USING PYTHON
-### Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you
-### advertise for, or the platform you are advertising on about your product. In this project I have compared the different regression model and found that ExtraTreesRegressor best fits for the sales prediction and gives near accurate sales prediction.
+### Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. In this project I have compared the different regression model and found that ExtraTreesRegressor best fits for the sales prediction and gives near accurate sales prediction.
